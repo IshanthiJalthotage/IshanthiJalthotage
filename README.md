@@ -1,9 +1,9 @@
-## Hi, I'm Ishanthi Jalthotage 👋
+## Hi, I'm Ishanthi Jalthotage
 I am a Data professional with a strong background in **Project Management** and **Business Analysis**. 
 
 I bridge the gap between complex technical data and actionable business strategy. After years of defining project requirements and managing stakeholder expectations, I’ve transitioned into Data Science to solve business problems using data-driven insights.
 
----
+#
 ### 🛠 My Technical Stack
 
 **Languages & Frameworks:**
@@ -15,13 +15,16 @@ I bridge the gap between complex technical data and actionable business strategy
 * **Version Control:** Git & GitHub
 * **Environment Management:** Jupyter Notebooks
 * **Project Management:** Agile/Scrum methodologies
+#
+
+<!-- ### 📊 Featured Projects-->
 
 ### 📈 GitHub Stats
-![Iahanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanthiJalthotage&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=IshanthiJalthotage&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanthiJalthotage&layout=compact&theme=tokyonight)
+<!-- ![Isahanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanthiJalthotage&showicons=true&theme=tokyonight) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=IshanthiJalthotage&theme=blue-green)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanthiJalthotage&layout=compact&theme=tokyonight) -->
 
-
+#
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanthi-jalthotage/)
