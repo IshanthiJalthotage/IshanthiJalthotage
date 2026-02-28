@@ -17,7 +17,7 @@ I bridge the gap between complex technical data and actionable business strategy
 * **Project Management:** Agile/Scrum methodologies
 
 ### 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshanthiJalthotage&show_icons=true&theme=radical)](https://github.com/IshanthiJalthotage)
+<img src="https://github-readme-stats.vercel.app/api?username=Ishanthijalthotage&show_icons=true&theme=radical" />
 
 ### 🔗 Let's Connect
 
