@@ -20,9 +20,9 @@ I bridge the gap between complex technical data and actionable business strategy
 <!-- ### 📊 Featured Projects-->
 
 ### 📈 GitHub Stats
-<!-- ![Isahanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanthiJalthotage&showicons=true&theme=tokyonight) -->
+![Isahanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanthiJalthotage&showicons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=IshanthiJalthotage&theme=blue-green)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanthiJalthotage&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanthiJalthotage&layout=compact&theme=tokyonight)
 
 #
 ### 🔗 Let's Connect
